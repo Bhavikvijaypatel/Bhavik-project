@@ -14,4 +14,4 @@ FROM
 
 dbo.[5000 Records];
 
-select * from dbo.[5000 Records]
+select Emp_ID from dbo.[5000 Records]
