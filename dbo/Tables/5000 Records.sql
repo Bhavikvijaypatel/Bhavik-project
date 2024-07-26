@@ -1,17 +1,41 @@
+CREATE TABLE [dbo].[5000 Records] (
+    [Emp_ID]                INT           NULL,
+    [Name_Prefix]           NVARCHAR (50) NULL,
+    [First_Name]            NVARCHAR (50) NULL,
+    [Middle_Initial]        NVARCHAR (50) NULL,
+    [Last_Name]             NVARCHAR (50) NULL,
+    [Gender]                NVARCHAR (50) NULL,
+    [E_Mail]                NVARCHAR (50) NULL,
+    [Father_s_Name]         NVARCHAR (50) NULL,
+    [Mother_s_Name]         NVARCHAR (50) NULL,
+    [Mother_s_Maiden_Name]  NVARCHAR (50) NULL,
+    [Date_of_Birth]         DATE          NULL,
+    [Time_of_Birth]         NVARCHAR (50) NULL,
+    [Age_in_Yrs]            FLOAT (53)    NULL,
+    [Weight_in_Kgs]         TINYINT       NULL,
+    [Date_of_Joining]       DATE          NULL,
+    [Quarter_of_Joining]    NVARCHAR (50) NULL,
+    [Half_of_Joining]       NVARCHAR (50) NULL,
+    [Year_of_Joining]       SMALLINT      NULL,
+    [Month_of_Joining]      TINYINT       NULL,
+    [Month_Name_of_Joining] NVARCHAR (50) NULL,
+    [Short_Month]           NVARCHAR (50) NULL,
+    [Day_of_Joining]        TINYINT       NULL,
+    [DOW_of_Joining]        NVARCHAR (50) NULL,
+    [Short_DOW]             NVARCHAR (50) NULL,
+    [Age_in_Company_Years]  FLOAT (53)    NULL,
+    [Salary]                INT           NULL,
+    [Last_Hike]             NVARCHAR (50) NULL,
+    [SSN]                   NVARCHAR (50) NULL,
+    [Phone_No]              NVARCHAR (50) NULL,
+    [Place_Name]            NVARCHAR (50) NULL,
+    [County]                NVARCHAR (50) NULL,
+    [City]                  NVARCHAR (50) NULL,
+    [State]                 NVARCHAR (50) NULL,
+    [Zip]                   INT           NULL,
+    [Region]                NVARCHAR (50) NULL,
+    [User_Name]             NVARCHAR (50) NULL,
+    [Password]              NVARCHAR (50) NULL
+);
+GO
 
-
-SELECT
-
-ROW_NUMBER() OVER (
-
-ORDER BY Emp_ID
-
-) row_num,
-
-*
-
-FROM
-
-dbo.[5000 Records];
-
-select Emp_ID from dbo.[5000 Records]

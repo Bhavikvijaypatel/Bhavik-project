@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\bhavi\\Desktop\\Data Engineering\\Bhavik project\\Bhavik project.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\bhavi\\Desktop\\Data Engineering\\Bhavik project\\Bhavik project.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\bhavi\\Desktop\\Data Engineering\\Bhavik project\\Bhavik project.sqlproj",
+        "projectName": "Bhavik project",
+        "projectPath": "c:\\Users\\bhavi\\Desktop\\Data Engineering\\Bhavik project\\Bhavik project.sqlproj",
+        "packagesPath": "C:\\Users\\bhavi\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\bhavi\\Desktop\\Data Engineering\\Bhavik project\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\bhavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

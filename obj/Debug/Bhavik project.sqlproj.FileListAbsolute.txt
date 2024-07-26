@@ -1,0 +1,10 @@
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\bin\Debug\Bhavik project.dacpac
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\bin\Debug\Bhavik project.dll
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\bin\Debug\Bhavik project.pdb
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\obj\Debug\Bhavik project.sqlproj.AssemblyReference.cache
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\obj\Debug\Model.xml
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\obj\Debug\refactor.xml
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\obj\Debug\postdeploy.sql
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\obj\Debug\predeploy.sql
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\obj\Debug\Bhavik project.dll
+c:\Users\bhavi\Desktop\Data Engineering\Bhavik project\obj\Debug\Bhavik project.pdb
