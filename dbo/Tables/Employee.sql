@@ -24,3 +24,13 @@ SELECT TOP (1000) [employee_id]
   SELECT distinct(years_of_experience)from Employee
   order by years_of_experience 
 
+  select MAX(salary) as highest from Employee
+  where performance_rating = 5
+
+  
+  
+
+ 
+
+ 
+  
